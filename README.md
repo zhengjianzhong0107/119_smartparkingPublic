@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1sK411v7to/](https://www.bilibili.com/video/BV1sK411v7to/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+vue的智能停车场管理系统(源代码+数据库+9000字论文)119
 
